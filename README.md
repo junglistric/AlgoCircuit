@@ -1,2 +1,2 @@
 # AlgoCircuit
-Algorithmic Synth Factory
+Algorithmic Synth Factory - randomized sounds using jsyn
